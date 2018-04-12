@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1442583180 source:c:\users\Андрей\desktop\simpletcpserver\simpletcpserver.cpp
+	"commonutils.h"
+
+1441361152 c:\users\Андрей\desktop\simpletcpserver\commonutils.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<winsock2.h>
+	<cstdio>
+	<time.h>
+	<sys/time.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/select.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<unistd.h>
+	<pthread.h>
+	<errno.h>
+
+1442604336 source:c:\users\elena\desktop\Пузирьов\simpletcpserver\simpletcpserver.cpp
+	"commonutils.h"
+	<vector>
+
+1441353952 c:\users\elena\desktop\Пузирьов\simpletcpserver\commonutils.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<winsock2.h>
+	<cstdio>
+	<time.h>
+	<sys/time.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/select.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<unistd.h>
+	<pthread.h>
+	<errno.h>
+
